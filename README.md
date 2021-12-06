@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Ahmed Skulj. I am a Software Engineering student at the University of Zenica, Bosnia and Herzegovina.
+My name is Ahmed Skulj. I am a Software Engineering student at the University of Zenica, Bosnia and Herzegovina. Apart from studying I also work as a Frontend Developer.
 
 Want to know more about me? [Check out my portfolio.](https://www.ahmedskulj.com/)
 
