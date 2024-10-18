@@ -13,8 +13,7 @@ My socials:
 
 ## &#x1f4c8; My GitHub Stats
 
-
-![ahmedskulj00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedskulj00&theme=synthwave&hide_border=true)
+![ahmedskulj00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmedskulj00&theme=prussian&hide_border=true)
 
 <br>
 
